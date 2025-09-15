@@ -6,8 +6,7 @@ html, body {
   height: 100%;
   overflow: hidden;
   font-family: "VT323", monospace;
-  background: url("cassbackground.jpg") 
-              no-repeat center center fixed;
+  background: url("cassbackground.jpg") no-repeat center center fixed;
   background-size: cover;
   -webkit-user-select: none;
   -moz-user-select: none;
